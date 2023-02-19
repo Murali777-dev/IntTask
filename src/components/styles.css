@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.parent-div{
+    background-color: rgb(209, 200, 200);
+    margin-top: 25vh;
+    margin-left: 37%;
+    margin-right: 37%;
+    height: auto;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+
+.parent-div form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.parent-div input{
+    width: 80%;
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.parent-div button{
+    margin-top: 10px;
+    height: 35px;
+    width: 35%;
+    border-radius: 5px;
+    background-color: tomato;
+    color: #fff;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.table-div{
+    /* background-color:red; */
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.button-div{
+    margin-top: 10px;
+    height: 35px;
+    width: 35%;
+    border-radius: 5px;
+    background-color: tomato;
+    color: #fff;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+
+
